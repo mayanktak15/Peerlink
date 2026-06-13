@@ -207,6 +207,4 @@ Options include:
 - Cloud deployment (Heroku, Railway, Vercel, Netlify)
 - VPS deployment
 
-## License
-
-MIT
+## MAde by Mayank Tak 
